@@ -1,9 +1,9 @@
-import Image from "next/image";
+import Products from "./_pages/Products";
 
 export default function Home() {
   return (
     <>
-      <h2>welcome to garden</h2>
+      <Products />
     </>
   );
 }

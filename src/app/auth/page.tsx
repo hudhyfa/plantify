@@ -1,9 +1,7 @@
-const Auth = () => {
-  return (
-    <>
-      <h2>Welcome to Signup page.</h2>
-    </>
-  );
-};
-
-export default Auth;
+export default function Auth() {
+    return (
+        <>
+            <h2>Auth page</h2>
+        </>
+    )
+}
